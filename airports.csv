@@ -1,0 +1,21 @@
+iata_code,name,city,country
+ATL,Hartsfield-Jackson Atlanta International Airport,Atlanta,United States
+LAX,Los Angeles International Airport,Los Angeles,United States
+ORD,O'Hare International Airport,Chicago,United States
+DFW,Dallas/Fort Worth International Airport,Dallas,United States
+DEN,Denver International Airport,Denver,United States
+JFK,John F. Kennedy International Airport,New York,United States
+SFO,San Francisco International Airport,San Francisco,United States
+SEA,Seattle-Tacoma International Airport,Seattle,United States
+LAS,Harry Reid International Airport,Las Vegas,United States
+MCO,Orlando International Airport,Orlando,United States
+LHR,London Heathrow Airport,London,United Kingdom
+CDG,Charles de Gaulle Airport,Paris,France
+FRA,Frankfurt Airport,Frankfurt,Germany
+AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands
+MAD,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain
+FCO,Leonardo da Vinci International Airport,Rome,Italy
+DXB,Dubai International Airport,Dubai,United Arab Emirates
+HND,Tokyo Haneda Airport,Tokyo,Japan
+PEK,Beijing Capital International Airport,Beijing,China
+SYD,Sydney Kingsford Smith Airport,Sydney,Australia
